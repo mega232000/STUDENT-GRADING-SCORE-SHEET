@@ -87,7 +87,4 @@ GitHub: https://github.com/mega232000
 
 ---
 
-## Future Improvements
-- Automating grading with Python
-- Creating visual dashboards
-- Adding data visualization
+
